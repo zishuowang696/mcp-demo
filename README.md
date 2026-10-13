@@ -35,6 +35,7 @@ python client.py
 
 ## 相关
 
+- 站点：<https://embedai.com.cn>
 - 文章：<https://embedai.com.cn/posts/mcp-in-30-lines>
 - 姊妹仓库（Agent 主循环）：<https://github.com/zishuowang696/agent-from-scratch>
 
